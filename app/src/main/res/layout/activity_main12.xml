@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/screenshot_17"
+    tools:context=".MainActivity12">
+
+
+    <Button
+        android:id="@+id/button39"
+        android:layout_width="167dp"
+        android:layout_height="58dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="67dp"
+        android:layout_marginEnd="1dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:fontFamily="serif"
+        android:text="رسم الأشخاص"
+        android:textColor="#709FB0"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button40"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="7dp"
+        android:layout_marginTop="81dp"
+        android:layout_marginEnd="236dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:fontFamily="serif"
+        android:text="رسم لوحة الشطرنج"
+        android:textColor="#709FB0"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button41"
+        android:layout_width="118dp"
+        android:layout_height="97dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="151dp"
+        android:layout_marginEnd="26dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:fontFamily="serif"
+        android:text="رسم العين"
+        android:textColor="#709FB0"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button42"
+        android:layout_width="214dp"
+        android:layout_height="69dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="190dp"
+        android:layout_marginEnd="192dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:fontFamily="serif"
+        android:text="رسم البيوت الصغيرة والصناديق"
+        android:textColor="#709FB0"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button43"
+        android:layout_width="wrap_content"
+        android:layout_height="84dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="269dp"
+        android:layout_marginEnd="14dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:fontFamily="serif"
+        android:text="رسم الأشكال الهندسية"
+        android:textColor="#709FB0"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button44"
+        android:layout_width="212dp"
+        android:layout_height="88dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="-12dp"
+        android:layout_marginTop="290dp"
+        android:layout_marginEnd="210dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:fontFamily="serif"
+        android:text="رسم الدوائر والحلقات"
+        android:textColor="#709FB0"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button45"
+        android:layout_width="wrap_content"
+        android:layout_height="58dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="382dp"
+        android:layout_marginEnd="14dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:fontFamily="serif"
+        android:text="كتابة التوقيع الشخصي"
+        android:textColor="#709FB0"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button46"
+        android:layout_width="162dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="426dp"
+        android:layout_marginEnd="233dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:fontFamily="serif"
+        android:text="رسم الأزهار والشمس"
+        android:textColor="#709FB0"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button47"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="491dp"
+        android:layout_marginEnd="12dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:fontFamily="serif"
+        android:text="رسم النجوم"
+        android:textColor="#709FB0"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button48"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="531dp"
+        android:layout_marginEnd="233dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:fontFamily="serif"
+        android:text="رسم الخطوط المتقاطعة"
+        android:textColor="#709FB0"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button49"
+        android:layout_width="118dp"
+        android:layout_height="97dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="656dp"
+        android:layout_marginEnd="35dp"
+        android:layout_marginBottom="0dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:fontFamily="serif"
+        android:text="رسم الحيوانات"
+        android:textColor="#709FB0"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button50"
+        android:layout_width="196dp"
+        android:layout_height="57dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="3dp"
+        android:layout_marginTop="628dp"
+        android:layout_marginEnd="212dp"
+        android:layout_marginBottom="44dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:fontFamily="serif"
+        android:text="العودة الى القائمة"
+        android:textColor="#000000"
+        android:textSize="28sp" />
+</RelativeLayout>
